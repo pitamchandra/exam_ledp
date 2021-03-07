@@ -38,16 +38,16 @@ a.nav-link{
 .banar-top{
 	position: absolute;
     color: #fff;
-    margin-top: 16%;
-    margin-left: 10%;
+    margin-top: 14%;
+    margin-left: 15%;
 }
 .banar-top h1{
-	font-size:30px;
+	font-size:50px;
 	margin-bottom:10px;
 	text-transform:uppercase;
 }
 .banar-top p{
-	font-size:18px;
+	font-size:30px;
 	text-transform:capitalize;
 }
 #service-section{
